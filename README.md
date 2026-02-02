@@ -71,7 +71,7 @@ The main workflow **requires both files below**:
 - `notebooks/DFTB_to_CC2_Delta_Learning_with_Coulomb_Matrix.ipynb`
 - `data/cleaned_merged_with_CM_5dp.csv`
 
-The notebook **will not run correctly without** the dataset.
+The notebook **will not run correctly with** the dataset.
 
 ---
 
