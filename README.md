@@ -132,11 +132,17 @@ The notebook and dataset must remain in the same relative directory structure, o
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Daisi Williams**  
 Computational Physics • Machine Learning for Quantum Chemistry  
 GitHub: https://github.com/daisiwilliams20-tech  
+
+**Dr. Ezekiel Oyeniyi**  
+Supervisor / Research Collaborator  
+Department of Physics  
+University of Ibadan
+  
 
 ---
 
